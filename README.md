@@ -1,0 +1,2 @@
+# SpringFrameworkMagazine
+Basic Spring Project
